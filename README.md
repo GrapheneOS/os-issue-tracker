@@ -1,2 +1,4 @@
+# OS issue tracker
+
 See the [issue
-tracker](https://github.com/AndroidHardening/os_issue_tracker/issues).
+tracker](https://github.com/GrapheneOS/os-issue-tracker/issues).

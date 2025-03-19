@@ -5,7 +5,7 @@ This repository serves as a place to report issues with [GrapheneOS](https://gra
 To report issues for **GrapheneOS apps**, please use their respective issue trackers, listed here:
 - [App Store](https://github.com/GrapheneOS/AppStore/issues)
 - [Auditor](https://github.com/GrapheneOS/Auditor/issues)
-- [GrapheneOS Camera](https://github.com/GrapheneOS/Camera/issues)
+- [Camera](https://github.com/GrapheneOS/Camera/issues)
 - [PDF Viewer](https://github.com/GrapheneOS/PdfViewer/issues)
 - [Vanadium](https://github.com/GrapheneOS/Vanadium/issues)
 

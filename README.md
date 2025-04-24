@@ -1,6 +1,11 @@
-# OS issue tracker
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/cc91edeb-b854-4789-abf0-70b432e302c3" alt="GrapheneOS Logo" width="256"/>
+  <h1>OS issue tracker</h1>
+</div>
 
 This repository serves as a place to report issues with [GrapheneOS](https://grapheneos.org/). To open an issue, please see the [issue tracker](https://github.com/GrapheneOS/os-issue-tracker/issues).
+
+<h2>Other issue trackers</h2>
 
 To report issues for **standalone apps**, please use their respective issue trackers, listed here:
 - [App Store](https://github.com/GrapheneOS/AppStore/issues)

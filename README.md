@@ -3,7 +3,7 @@
   <h1>GrapheneOS Issue Tracker</h1>
 </div>
 
-This repository serves as a place to report issues with the [GrapheneOS](https://grapheneos.org/) operating system. To open an issue, please see the [issue tracker](https://github.com/GrapheneOS/os-issue-tracker/issues).
+This repository serves as a place to report issues with the [GrapheneOS](https://grapheneos.org/) operating system. To open an issue, please use this repository's [issue tracker](https://github.com/GrapheneOS/os-issue-tracker/issues). If you are reporting a sensitive security issue, please report it to security@grapheneos.org instead.
 
 <h2>Other issue trackers</h2>
 

@@ -27,7 +27,8 @@ To report issues for **GrapheneOS services**, please use their respective issue 
 - [Website](https://github.com/GrapheneOS/grapheneos.org/issues)
 
 To report issues for **other standalone projects**, please use their respective issue trackers, listed here:
-- [hardened_malloc](https://github.com/GrapheneOS/hardened_malloc)
+- [hardened_malloc](https://github.com/GrapheneOS/hardened_malloc/issues)
+- [Seedvault](https://github.com/seedvault-app/seedvault/issues)
 - [Setup wizard](https://github.com/GrapheneOS/platform_packages_apps_SetupWizard2/issues)
 - [Talkback](https://github.com/GrapheneOS/talkback/issues)
 - [Update client](https://github.com/GrapheneOS/platform_packages_apps_Updater/issues)

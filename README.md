@@ -6,6 +6,7 @@ To report issues for **standalone apps**, please use their respective issue trac
 - [App Store](https://github.com/GrapheneOS/AppStore/issues)
 - [Auditor](https://github.com/GrapheneOS/Auditor/issues)
 - [Camera](https://github.com/GrapheneOS/Camera/issues)
+- [Info](https://github.com/GrapheneOS/Info/issues)
 - [Messaging](https://github.com/GrapheneOS/Messaging/issues)
 - [PDF Viewer](https://github.com/GrapheneOS/PdfViewer/issues)
 - [Vanadium](https://github.com/GrapheneOS/Vanadium/issues)
